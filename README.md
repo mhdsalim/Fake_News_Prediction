@@ -5,7 +5,7 @@ The topic of fake news detection on social media has recently attracted tremendo
 
 ## Datasets
 
-Link - https://drive.google.com/drive/folders/1cSIBI_OhNiXbEZnd9SxPCFsWjPRcZ8Hk?usp=sharing
+Link - https://drive.google.com/drive/folders/1I6S6yngJKFFMtm8jvDwrzp1d3rnRCozA?usp=sharing
 
 - train.csv: A full training dataset with the following attributes:
   - id: unique id for a news article
